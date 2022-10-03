@@ -1,1 +1,1 @@
-# FOiburaz v2
+# FOIBuraz
