@@ -3,10 +3,10 @@ Ovo je konzolno rješenja za projekt FOI Buraz. Svrha aplikacije jest ubrzati pr
 Također, cilj projekta jest smanjiti spam na službene mailove poput referade, studentskog zbora, itd.
 
 
-##Requrements
+## Requrements
 - Visual Studio
 
-##Setup
+## Setup
 Kako bi se koristila aplikacija za slanje mailova, potreban je matični mail koji omogućava 2FA (two-factor-authentication). Potrebno je omogućiti prijavu sa 2FA, te zatim dodati pravo na mailu za Windows aplikaciju.
 
 ![2FA](https://user-images.githubusercontent.com/72978858/194953244-14e87676-dcda-4628-8ef3-d54bf6754b6b.png)
