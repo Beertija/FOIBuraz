@@ -15,6 +15,8 @@ Zatim pod "App passwords" odabrati kao što je prikazano na slici.
 
 ![App password](https://user-images.githubusercontent.com/72978858/194953482-0d3ade3c-0e96-4004-8f49-cd824828b67f.png)
 
-OPREZ! Kod koji će se generirati bit će prikazan samo u tom trenutku i nikada više.
+**OPREZ! Kod koji će se generirati bit će prikazan samo u tom trenutku i nikada više.**
 Taj kod će vam trebati za polje "Key" u appsettings.json file-u unutar konzolne aplikacije, a u polje "Email" se upisuje puni email za koji ste malo prije generirali ključ.
 
+Za kraj preostaje samo pokrenuti stari google forms za FOI Buraz i tu excelicu postaviti na isto mjesto u folderu projekta gdje su i testni primjeri excelica.
+Ime Excel datoteke potrebno je navesti u appsettings.json file-u
