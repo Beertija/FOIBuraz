@@ -19,4 +19,6 @@ Zatim pod "App passwords" odabrati kao što je prikazano na slici.
 Taj kod će vam trebati za polje "Key" u appsettings.json file-u unutar konzolne aplikacije, a u polje "Email" se upisuje puni email za koji ste malo prije generirali ključ.
 
 Za kraj preostaje samo pokrenuti stari google forms za FOI Buraz i tu excelicu postaviti na isto mjesto u folderu projekta gdje su i testni primjeri excelica.
-Ime Excel datoteke potrebno je navesti u appsettings.json file-u
+Ime Excel datoteke potrebno je navesti u appsettings.json file-u.
+
+Budući da je SMTP javno dostupna konfiguracija od kompanije Google unutar jednog pokretanja aplikacija se može poslati 100 mailova, tj. može se generirati 50 parova. Ako broj prijava prelazi broj 100 potrebno je modificirati postojeću ili generirati novu excel datoteku koja bi inkorporirala one prijave koje prelaze broj 100. U slučaju da je unutar broja prijava bio veći broj prijava velikih buraza, oni neće imati dodijeljene parove no ako je broj malih buraza veći od broja prijava velikih buraza onda za one male buraze koji nemaju dodijeljen par se nanovo dodijeljuju veliki burazi od vrha prema dolje.
