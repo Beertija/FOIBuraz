@@ -1,9 +1,9 @@
 # FOIBuraz
-Ovo je konzolno rješenja za projekt FOI Buraz. Svrha aplikacije jest ubrzati proces slanja pojedinačnih mailova u obliku para (Mali buraz + Veliki buraz).
+Ovo je konzolno rješenja za projekt FOI Buraz. Svrha aplikacije jest ubrzati proces slanja pojedinačnih mailova u obliku parova (Mali buraz + Veliki buraz).
 Također, cilj projekta jest smanjiti spam na službene mailove poput referade, studentskog zbora, itd.
 
 
-## Requrements
+## Potreban softver za pokretanje 
 - Visual Studio
 
 ## Setup
